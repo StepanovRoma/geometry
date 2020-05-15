@@ -1,5 +1,5 @@
-#include "function.h"
 #include "Coord.h"
+#include "function.h"
 #include <iostream>
 #include <math.h>
 
